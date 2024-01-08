@@ -1,0 +1,5 @@
+aiogram==2.25.1
+aiohttp==3.8.4
+aiosqlite==0.19.0
+Pyrogram==2.0.106
+tgcrypto==1.2.5
