@@ -18,9 +18,9 @@ async def cloudinary_upload(byteio_content, name):
         dict: The upload result, including the URL of the uploaded image, or None in case of an error.
     """
     cloudinary.config(
-        cloud_name="demay6vua",  # Your Cloudinary account name
-        api_key="355169687434769",  # Cloudinary API key
-        api_secret="OganVlMB8AhDtvSmRKcMvao0Bfk",  # Cloudinary API secret key
+        cloud_name="********",  # Your Cloudinary account name
+        api_key="********",  # Cloudinary API key
+        api_secret="********",  # Cloudinary API secret key
         secure=True
     )
 
